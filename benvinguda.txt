@@ -1,16 +1,6 @@
 Jaume Tur
-
-
 (B) Modificació 01 Main Jaume Tur
-
-
-
 (C) Benvingut a la branca02 Jaume Tur
-
-
-
 (D) Modificació 02 Main Jaume Tur
-
-
-
 (E) Afegim imatge a branca 01 Jaume Tur
+(F) Afegim imatge a branca 02 Jaume Tur
